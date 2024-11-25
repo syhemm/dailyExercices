@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Practice for Java functions. 23-11-2024
 public class BankingApp {
     public static void main(String [] args) {
         Scanner keyboard = new Scanner(System.in);
