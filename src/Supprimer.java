@@ -15,7 +15,8 @@ public class Supprimer {
             if(val<1){
                 listeLexique[pos] = listeDeMots[i];
                 pos++;
-            }
+
+           }
         }
         return listeLexique;
     }*/
@@ -38,5 +39,4 @@ public class Supprimer {
         }
         return wordCount;
     }
-
 }
